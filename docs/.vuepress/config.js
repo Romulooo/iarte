@@ -5,7 +5,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'en-US',
 
-  base: '/iarte/'
+  base: '/iarte/',
 
   title: 'IArte',
   description: 'Imagens geradas:',
