@@ -3,41 +3,41 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="generator" content="VuePress 2.0.0-rc.14" />
+    <meta name="generator" content="VuePress 2.0.0-rc.18" />
     <style>
       :root {
-        --c-bg: #fff;
+        --vp-c-bg: #fff;
       }
 
-      html.dark {
-        --c-bg: #22272e;
+      [data-theme='dark'] {
+        --vp-c-bg: #1b1b1f;
       }
 
       html,
       body {
-        background-color: var(--c-bg);
+        background-color: var(--vp-c-bg);
       }
     </style>
     <script>
       const userMode = localStorage.getItem('vuepress-color-scheme')
       const systemDarkMode =
-        window.matchMedia &&
-        window.matchMedia('(prefers-color-scheme: dark)').matches
+        'matchMedia' in window
+          ? window.matchMedia('(prefers-color-scheme: dark)').matches
+          : false
 
       if (userMode === 'light') {
         document.documentElement.dataset.theme = 'light'
       } else if (userMode === 'dark' || systemDarkMode) {
-        document.documentElement.classList.toggle('dark', true)
         document.documentElement.dataset.theme = 'dark'
       }
     </script>
     <title>IArte</title><meta name="description" content="Imagens geradas:">
-    <link rel="preload" href="/iarte/assets/style-DQgJpjMi.css" as="style"><link rel="stylesheet" href="/iarte/assets/style-DQgJpjMi.css">
-    <link rel="modulepreload" href="/iarte/assets/app-poDWHDDH.js"><link rel="modulepreload" href="/iarte/assets/404.html-B1foItVt.js">
-    <link rel="prefetch" href="/iarte/assets/index.html-BpuCbHZA.js" as="script"><link rel="prefetch" href="/iarte/assets/get-started.html-Ci7h2OE6.js" as="script">
+    <link rel="preload" href="/iarte/assets/style-PoWje89h.css" as="style"><link rel="stylesheet" href="/iarte/assets/style-PoWje89h.css">
+    <link rel="modulepreload" href="/iarte/assets/app-cM-wcUdC.js"><link rel="modulepreload" href="/iarte/assets/404.html-_RHAXio6.js">
+    <link rel="prefetch" href="/iarte/assets/index.html-DfRAGUUj.js" as="script"><link rel="prefetch" href="/iarte/assets/get-started.html-CbsxABId.js" as="script"><link rel="prefetch" href="/iarte/assets/setupDevtools-7MC2TMWH-BoHy84z-.js" as="script">
   </head>
   <body>
-    <div id="app"><!--[--><div class="vp-theme-container" data-v-303656ba><main class="page" data-v-303656ba><div class="theme-default-content" data-v-303656ba><h1 data-v-303656ba>404</h1><blockquote data-v-303656ba>There&#39;s nothing here.</blockquote><a class="route-link" href="/iarte/" data-v-303656ba>Take me home</a></div></main></div><!--[--><!----><!--]--><!--]--></div>
-    <script type="module" src="/iarte/assets/app-poDWHDDH.js" defer></script>
+    <div id="app"><!--[--><div class="vp-theme-container" vp-container data-v-67c08c1d><main class="page" data-v-67c08c1d><div class="theme-default-content" vp-content data-v-67c08c1d><h1 data-v-67c08c1d>404</h1><blockquote data-v-67c08c1d>There&#39;s nothing here.</blockquote><a class="route-link" href="/iarte/" data-v-67c08c1d>Take me home</a></div></main></div><!--[--><!----><!--]--><!--]--></div>
+    <script type="module" src="/iarte/assets/app-cM-wcUdC.js" defer></script>
   </body>
 </html>
