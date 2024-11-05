@@ -1,4 +1,4 @@
-# Introdução
+# Sobre o Projeto
 
 A arte gerada por inteligência artificial vem ganhando destaque nos últimos anos, desafiando as fronteiras entre criatividade humana e machine learning. Com algoritmos avançados, as IAs são capazes de criar obras visuais, música e literatura, levantando questões sobre autoria, estética e o papel da tecnologia na expressão artística.
 
