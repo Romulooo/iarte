@@ -1,18 +1,15 @@
-# Sobre o projeto
+# Introdução
 
-O projeto IArte tem como objetivo...
+A arte gerada por inteligência artificial vem ganhando destaque nos últimos anos, desafiando as fronteiras entre criatividade humana e machine learning. Com algoritmos avançados, as IAs são capazes de criar obras visuais, música e literatura, levantando questões sobre autoria, estética e o papel da tecnologia na expressão artística.
 
-## O que é uma IA?
+## Objetivos do Projeto
 
-IA é...
+Este trabalho tem como objetivo informar sobre a capacidade da IA em criar arte, explorando suas técnicas, aplicações e implicações. Buscaremos entender como a inteligência artificial está moldando o conceito de arte contemporânea e o que isso significa para o futuro da criatividade discutindo sobre aplicações e a aplicação artística real das obras.
 
-## Como a IA se relaciona com a arte?
 
-A...
+## Conclusão
 
-## Tópico
-
-A...
+Com o desenvolver do processo, se nota que as capacidades de geração de imagens pode ser muito notável, mas precisa de análises profundas antes de realizar uma transformação total no mercado artístico. De maneira imparcial, é concluído que as artes geradas por IA podem ser divisoras de águas e geram dois pontos de vista.
 
 
 [routing]: https://vuejs.press/guide/page.html#routing
