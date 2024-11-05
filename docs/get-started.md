@@ -6,6 +6,9 @@ A arte gerada por inteligência artificial vem ganhando destaque nos últimos an
 
 Este trabalho tem como objetivo informar sobre a capacidade da IA em criar arte, explorando suas técnicas, aplicações e implicações. Buscaremos entender como a inteligência artificial está moldando o conceito de arte contemporânea e o que isso significa para o futuro da criatividade discutindo sobre aplicações e a aplicação artística real das obras.
 
+## Materiais e Métodos
+
+A metodologia adotada para este trabalho baseia-se na análise de publicações acadêmicas, artigos especializados, palestras de especialistas e fontes confiáveis na internet. Essas pesquisas visam aprofundar o entendimento sobre a capacidade da IA em produzir arte, investigando tanto as técnicas utilizadas quanto às implicações sociais e culturais dessa nova forma de criação.
 
 ## Conclusão
 
