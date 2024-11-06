@@ -13,4 +13,6 @@ title: Imagens
 ![Quarta imagem](../3.png)
 ![Quinta imagem](../4.png)
 ![Gustavo Ritter](../5.png)
-![Pedro sch](../6.png)
+![Pedro](../6.png)
+![Beatriz Marcon](../7.png)
+![Cauane](../8.png)
