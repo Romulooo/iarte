@@ -6,6 +6,7 @@ title: Imagens
 
 
 
-![An image](../teste.png)
-![An image](../1.png)
+![Primeira imagem](../teste.png)
+![Segunda imagem](../1.png)
+![Terceira imagem](../2.png)
 
