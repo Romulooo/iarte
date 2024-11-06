@@ -12,4 +12,5 @@ title: Imagens
 ![Terceira imagem](../2.png)
 ![Quarta imagem](../3.png)
 ![Quinta imagem](../4.png)
-
+![Gustavo Ritter](../5.png)
+![Pedro sch](../6.png)
