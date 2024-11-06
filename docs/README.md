@@ -16,3 +16,5 @@ title: Imagens
 ![Pedro](../6.png)
 ![Beatriz Marcon](../7.png)
 ![Cauane](../8.png)
+![Joao Garbin](../9.png)
+![Valeria Metroski](../10.png)
