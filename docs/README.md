@@ -19,3 +19,4 @@ title: Imagens
 ![Joao Garbin](../9.png)
 ![Valeria Metroski](../10.png)
 ![Victor Oldoni](../11.png)
+![Schumann](../12.png)
