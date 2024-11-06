@@ -18,3 +18,4 @@ title: Imagens
 ![Cauane](../8.png)
 ![Joao Garbin](../9.png)
 ![Valeria Metroski](../10.png)
+![Victor Oldoni](../11.png)
