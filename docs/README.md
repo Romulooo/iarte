@@ -20,3 +20,6 @@ title: Imagens
 ![Valeria Metroski](../10.png)
 ![Victor Oldoni](../11.png)
 ![Schumann](../12.png)
+![Agda](../13.png)
+![Ana](../14.png)
+![Chapecó](../15.png)
